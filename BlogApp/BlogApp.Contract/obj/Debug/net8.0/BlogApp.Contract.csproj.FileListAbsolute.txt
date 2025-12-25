@@ -1,0 +1,15 @@
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\bin\Debug\net8.0\BlogApp.Contract.deps.json
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\bin\Debug\net8.0\BlogApp.Contract.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\bin\Debug\net8.0\BlogApp.Contract.pdb
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp.Contract.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp.Contract.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp.Contract.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\refint\BlogApp.Contract.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp.Contract.pdb
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\ref\BlogApp.Contract.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\bin\Debug\net8.0\BlogApp.Domain.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\bin\Debug\net8.0\BlogApp.Domain.pdb
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp.Contract.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.Contract\obj\Debug\net8.0\BlogApp..57094DE2.Up2Date

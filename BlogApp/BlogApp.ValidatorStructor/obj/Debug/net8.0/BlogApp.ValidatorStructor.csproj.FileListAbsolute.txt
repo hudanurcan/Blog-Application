@@ -1,0 +1,11 @@
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\bin\Debug\net8.0\BlogApp.ValidatorStructor.deps.json
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\bin\Debug\net8.0\BlogApp.ValidatorStructor.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\bin\Debug\net8.0\BlogApp.ValidatorStructor.pdb
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\BlogApp.ValidatorStructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\BlogApp.ValidatorStructor.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\BlogApp.ValidatorStructor.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\BlogApp.ValidatorStructor.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\BlogApp.ValidatorStructor.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\refint\BlogApp.ValidatorStructor.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\BlogApp.ValidatorStructor.pdb
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ValidatorStructor\obj\Debug\net8.0\ref\BlogApp.ValidatorStructor.dll

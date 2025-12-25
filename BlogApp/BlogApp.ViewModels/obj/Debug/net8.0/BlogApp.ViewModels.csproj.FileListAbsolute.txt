@@ -1,0 +1,11 @@
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\bin\Debug\net8.0\BlogApp.ViewModels.deps.json
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\bin\Debug\net8.0\BlogApp.ViewModels.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\bin\Debug\net8.0\BlogApp.ViewModels.pdb
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\BlogApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\BlogApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\BlogApp.ViewModels.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\BlogApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\BlogApp.ViewModels.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\refint\BlogApp.ViewModels.dll
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\BlogApp.ViewModels.pdb
+C:\Users\Hudanur\Desktop\BlogApp\BlogApp.ViewModels\obj\Debug\net8.0\ref\BlogApp.ViewModels.dll

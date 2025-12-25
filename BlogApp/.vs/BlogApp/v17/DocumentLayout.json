@@ -1,0 +1,1537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B588C877-B164-429C-BD77-4C603AE2DD7E}|BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.validatorstructor\\modelsvalidator\\postvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B588C877-B164-429C-BD77-4C603AE2DD7E}|BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj|solutionrelative:blogapp.validatorstructor\\modelsvalidator\\postvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\managerconcretes\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\managerconcretes\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dtoclasses\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dtoclasses\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B588C877-B164-429C-BD77-4C603AE2DD7E}|BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.validatorstructor\\blogapp.validatorstructor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B588C877-B164-429C-BD77-4C603AE2DD7E}|BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj|solutionrelative:blogapp.validatorstructor\\blogapp.validatorstructor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hudanur\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\dependencyresolvers\\repositoryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\dependencyresolvers\\repositoryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\repositoryconcretes\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\repositoryconcretes\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\dependencyresolvers\\dbcontextresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\dependencyresolvers\\dbcontextresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\dependencyresolvers\\managerresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\dependencyresolvers\\managerresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\managerconcretes\\postmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\managerconcretes\\postmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\managerinterfaces\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\managerinterfaces\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\responsemodels\\posts\\postresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\responsemodels\\posts\\postresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\responsemodels\\posttags\\posttagresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\responsemodels\\posttags\\posttagresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\responsemodels\\postcategories\\postcategoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\responsemodels\\postcategories\\postcategoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\posts\\updatepostrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\posts\\updatepostrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\posts\\createpostrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\posts\\createpostrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\posttags\\createposttagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\posttags\\createposttagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\postcategories\\createpostcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\postcategories\\createpostcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\repositoryconcretes\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\repositoryconcretes\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\configurations\\postcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\configurations\\postcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\exceptions\\concrete\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\exceptions\\concrete\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\exceptions\\abstract\\ierrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\exceptions\\abstract\\ierrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dtoclasses\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dtoclasses\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\managerconcretes\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\managerconcretes\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Migrations\\20251225114337_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApp.Persistence\\Migrations\\20251225114337_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\categories\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\categories\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\responsemodels\\categories\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\responsemodels\\categories\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\managerconcretes\\postcategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\managerconcretes\\postcategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\exceptions\\concrete\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\exceptions\\concrete\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\migrations\\20251225110704_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\migrations\\20251225110704_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\entities\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\entities\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\entities\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\entities\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\blogapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\blogapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\configurations\\posttagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\configurations\\posttagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dtoclasses\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dtoclasses\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\blogapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\blogapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\responsemodels\\tags\\tagresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\responsemodels\\tags\\tagresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\posttags\\updateposttagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\posttags\\updateposttagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\postcategories\\updatepostcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\postcategories\\updatepostcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\repositoryconcretes\\posttagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\repositoryconcretes\\posttagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\repositoryconcretes\\postcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\repositoryconcretes\\postcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\contextclasses\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\contextclasses\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\managerconcretes\\posttagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\managerconcretes\\posttagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\managerinterfaces\\ipostcategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\managerinterfaces\\ipostcategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dtoclasses\\posttagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dtoclasses\\posttagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\managerinterfaces\\iposttagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\managerinterfaces\\iposttagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\managerinterfaces\\itagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\managerinterfaces\\itagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\managerinterfaces\\ipostmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\managerinterfaces\\ipostmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\mappingprofiles\\dtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\mappingprofiles\\dtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.contract\\repositoryinterfaces\\iposttagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|solutionrelative:blogapp.contract\\repositoryinterfaces\\iposttagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.contract\\repositoryinterfaces\\ipostcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|solutionrelative:blogapp.contract\\repositoryinterfaces\\ipostcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.contract\\repositoryinterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|solutionrelative:blogapp.contract\\repositoryinterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.contract\\repositoryinterfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|solutionrelative:blogapp.contract\\repositoryinterfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.contract\\repositoryinterfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|solutionrelative:blogapp.contract\\repositoryinterfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\managerinterfaces\\icategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\managerinterfaces\\icategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dependencyresolvers\\dtomapperresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dependencyresolvers\\dtomapperresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\mappingprofiles\\vmmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\mappingprofiles\\vmmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\dependencyresolvers\\vmmapperresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\dependencyresolvers\\vmmapperresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\managerconcretes\\tagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\managerconcretes\\tagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.innerinfrastructure\\blogapp.innerinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42EAAB06-C310-4573-B2FF-6931F3138D54}|BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj|solutionrelative:blogapp.innerinfrastructure\\blogapp.innerinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.contract\\repositoryinterfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410D516-CA21-47AE-A7AB-24C59344A919}|BlogApp.Contract\\BlogApp.Contract.csproj|solutionrelative:blogapp.contract\\repositoryinterfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\configurations\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\configurations\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\tags\\createtagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\tags\\createtagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEB41E1F-4D96-4142-846E-6A114E22F9CE}|BlogApp.WebApi\\BlogApp.WebApi.csproj|solutionrelative:blogapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\tags\\updatetagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\tags\\updatetagrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.viewmodels\\requestmodels\\categories\\updatecategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767D268-087F-466A-837F-3978D3C92319}|BlogApp.ViewModels\\BlogApp.ViewModels.csproj|solutionrelative:blogapp.viewmodels\\requestmodels\\categories\\updatecategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.persistence\\blogapp.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{663B782B-61C8-41EB-820B-B20C82923F88}|BlogApp.Persistence\\BlogApp.Persistence.csproj|solutionrelative:blogapp.persistence\\blogapp.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\blogapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\blogapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dtoclasses\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dtoclasses\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dtointerfaces\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dtointerfaces\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.application\\dtoclasses\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F118D-AC95-47BC-AC26-6A237E099A89}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\dtoclasses\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\enums\\datastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\enums\\datastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\hudanur\\desktop\\blogapp\\blogapp.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25784EDA-4A3E-4D7D-97C7-6858F9FD9089}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 326,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1544493765:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ValidatorStructor\\ModelsValidator\\PostValidator.cs",
+              "RelativeDocumentMoniker": "BlogApp.ValidatorStructor\\ModelsValidator\\PostValidator.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ValidatorStructor\\ModelsValidator\\PostValidator.cs",
+              "RelativeToolTip": "BlogApp.ValidatorStructor\\ModelsValidator\\PostValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:11:56.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogApp.ValidatorStructor",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj",
+              "RelativeDocumentMoniker": "BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj",
+              "RelativeToolTip": "BlogApp.ValidatorStructor\\BlogApp.ValidatorStructor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T13:00:47.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:51:20.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\RepositoryConcretes\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\BaseRepository.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\RepositoryConcretes\\BaseRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:52:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\ManagerInterfaces\\IManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IManager.cs",
+              "RelativeToolTip": "BlogApp.Application\\ManagerInterfaces\\IManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:29:55.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\PostManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\ManagerConcretes\\PostManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\PostManager.cs",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\ManagerConcretes\\PostManager.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADgvygAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:33:07.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BlogApp.WebApi\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAowF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:41:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DtoClasses\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\CategoryDto.cs",
+              "RelativeToolTip": "BlogApp.Application\\DtoClasses\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:25:48.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:17:29.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbContextResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\DependencyResolvers\\DbContextResolver.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\DependencyResolvers\\DbContextResolver.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\DependencyResolvers\\DbContextResolver.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\DependencyResolvers\\DbContextResolver.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:51:06.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAvwJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:57:16.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:16:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Program.cs",
+              "RelativeToolTip": "BlogApp.WebApi\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:13:15.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdatePostRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Posts\\UpdatePostRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\Posts\\UpdatePostRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Posts\\UpdatePostRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\Posts\\UpdatePostRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:58:21.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\Posts\\PostResponseModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\ResponseModels\\Posts\\PostResponseModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\Posts\\PostResponseModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\ResponseModels\\Posts\\PostResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:06:29.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostTagResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\PostTags\\PostTagResponseModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\ResponseModels\\PostTags\\PostTagResponseModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\PostTags\\PostTagResponseModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\ResponseModels\\PostTags\\PostTagResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:36:09.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostCategoryResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\PostCategories\\PostCategoryResponseModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\ResponseModels\\PostCategories\\PostCategoryResponseModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\PostCategories\\PostCategoryResponseModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\ResponseModels\\PostCategories\\PostCategoryResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:36:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreatePostRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Posts\\CreatePostRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\Posts\\CreatePostRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Posts\\CreatePostRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\Posts\\CreatePostRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:57:29.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreatePostTagRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostTags\\CreatePostTagRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\PostTags\\CreatePostTagRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostTags\\CreatePostTagRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\PostTags\\CreatePostTagRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:35:42.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreatePostCategoryRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostCategories\\CreatePostCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\PostCategories\\CreatePostCategoryRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostCategories\\CreatePostCategoryRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\PostCategories\\CreatePostCategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:35:16.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\PostRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\RepositoryConcretes\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\PostRepository.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\RepositoryConcretes\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:52:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\PostConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Configurations\\PostConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\PostConfiguration.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Configurations\\PostConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:50:03.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PostCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\PostCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Configurations\\PostCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\PostCategoryConfiguration.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Configurations\\PostCategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:31:30.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\Exceptions\\Concrete\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Exceptions\\Concrete\\ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\Exceptions\\Concrete\\ErrorHandler.cs",
+              "RelativeToolTip": "BlogApp.Application\\Exceptions\\Concrete\\ErrorHandler.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:18:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\Exceptions\\Abstract\\IErrorHandler.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Exceptions\\Abstract\\IErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\Exceptions\\Abstract\\IErrorHandler.cs",
+              "RelativeToolTip": "BlogApp.Application\\Exceptions\\Abstract\\IErrorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:18:32.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\PostDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DtoClasses\\PostDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\PostDto.cs",
+              "RelativeToolTip": "BlogApp.Application\\DtoClasses\\PostDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:26:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Entities\\Post.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:18:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BlogApp.WebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowFIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:41:07.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\Controllers\\TagController.cs",
+              "RelativeToolTip": "BlogApp.WebApi\\Controllers\\TagController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA5wEMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:31:27.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\Tag.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Entities\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:21:16.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\ManagerConcretes\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\CategoryManager.cs",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\ManagerConcretes\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:20:32.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:21:21.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251225114337_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Migrations\\20251225114337_mig2.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Migrations\\20251225114337_mig2.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Migrations\\20251225114337_mig2.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Migrations\\20251225114337_mig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:43:37.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateCategoryRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\Categories\\CreateCategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:57:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\ResponseModels\\Categories\\CategoryResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:06:21.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PostCategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\PostCategoryManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\ManagerConcretes\\PostCategoryManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\PostCategoryManager.cs",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\ManagerConcretes\\PostCategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:13:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\Exceptions\\Concrete\\CustomException.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Exceptions\\Concrete\\CustomException.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\Exceptions\\Concrete\\CustomException.cs",
+              "RelativeToolTip": "BlogApp.Application\\Exceptions\\Concrete\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:12:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251225110704_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Migrations\\20251225110704_mig1.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Migrations\\20251225110704_mig1.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Migrations\\20251225110704_mig1.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Migrations\\20251225110704_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:07:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:19:00.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PostCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\PostCategory.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\PostCategory.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\PostCategory.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Entities\\PostCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:06:17.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BlogApp.WebApi",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\BlogApp.WebApi.csproj",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\BlogApp.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\BlogApp.WebApi.csproj",
+              "RelativeToolTip": "BlogApp.WebApi\\BlogApp.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T11:01:54.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PostTag.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\PostTag.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\PostTag.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Entities\\PostTag.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Entities\\PostTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:07:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\TagConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Configurations\\TagConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\TagConfiguration.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Configurations\\TagConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:50:29.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PostTagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\PostTagConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Configurations\\PostTagConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\PostTagConfiguration.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Configurations\\PostTagConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:31:20.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:49:47.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PostCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\PostCategoryDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DtoClasses\\PostCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\PostCategoryDto.cs",
+              "RelativeToolTip": "BlogApp.Application\\DtoClasses\\PostCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:09:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BlogApp.Domain",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\BlogApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj",
+              "RelativeToolTip": "BlogApp.Domain\\BlogApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T07:16:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TagResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\ResponseModels\\Tags\\TagResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:06:39.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UpdatePostTagRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostTags\\UpdatePostTagRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\PostTags\\UpdatePostTagRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostTags\\UpdatePostTagRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\PostTags\\UpdatePostTagRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:35:53.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdatePostCategoryRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostCategories\\UpdatePostCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\PostCategories\\UpdatePostCategoryRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\PostCategories\\UpdatePostCategoryRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\PostCategories\\UpdatePostCategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:35:27.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PostTagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\PostTagRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\RepositoryConcretes\\PostTagRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\PostTagRepository.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\RepositoryConcretes\\PostTagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:33:07.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PostCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\PostCategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\RepositoryConcretes\\PostCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\PostCategoryRepository.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\RepositoryConcretes\\PostCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:33:01.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\ContextClasses\\MyContext.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\ContextClasses\\MyContext.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\ContextClasses\\MyContext.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\ContextClasses\\MyContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:47:03.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\RepositoryConcretes\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\RepositoryConcretes\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:52:40.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IPostCategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IPostCategoryManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\ManagerInterfaces\\IPostCategoryManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IPostCategoryManager.cs",
+              "RelativeToolTip": "BlogApp.Application\\ManagerInterfaces\\IPostCategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:10:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PostTagDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\PostTagDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DtoClasses\\PostTagDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\PostTagDto.cs",
+              "RelativeToolTip": "BlogApp.Application\\DtoClasses\\PostTagDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:09:02.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PostTagManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\PostTagManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\ManagerConcretes\\PostTagManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\PostTagManager.cs",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\ManagerConcretes\\PostTagManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:13:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IPostTagManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IPostTagManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\ManagerInterfaces\\IPostTagManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IPostTagManager.cs",
+              "RelativeToolTip": "BlogApp.Application\\ManagerInterfaces\\IPostTagManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:10:33.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ITagManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\ITagManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\ManagerInterfaces\\ITagManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\ITagManager.cs",
+              "RelativeToolTip": "BlogApp.Application\\ManagerInterfaces\\ITagManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:29:27.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IPostManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IPostManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\ManagerInterfaces\\IPostManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\IPostManager.cs",
+              "RelativeToolTip": "BlogApp.Application\\ManagerInterfaces\\IPostManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:29:22.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DtoMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\MappingProfiles\\DtoMappingProfile.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\MappingProfiles\\DtoMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\MappingProfiles\\DtoMappingProfile.cs",
+              "RelativeToolTip": "BlogApp.Application\\MappingProfiles\\DtoMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:12:55.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IPostTagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IPostTagRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Contract\\RepositoryInterfaces\\IPostTagRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IPostTagRepository.cs",
+              "RelativeToolTip": "BlogApp.Contract\\RepositoryInterfaces\\IPostTagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:11:56.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IPostCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IPostCategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Contract\\RepositoryInterfaces\\IPostCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IPostCategoryRepository.cs",
+              "RelativeToolTip": "BlogApp.Contract\\RepositoryInterfaces\\IPostCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:12:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Contract\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "BlogApp.Contract\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:42:12.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Contract\\RepositoryInterfaces\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IPostRepository.cs",
+              "RelativeToolTip": "BlogApp.Contract\\RepositoryInterfaces\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:42:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Contract\\RepositoryInterfaces\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\ITagRepository.cs",
+              "RelativeToolTip": "BlogApp.Contract\\RepositoryInterfaces\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:42:18.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DtoMapperResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DependencyResolvers\\DtoMapperResolver.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DependencyResolvers\\DtoMapperResolver.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DependencyResolvers\\DtoMapperResolver.cs",
+              "RelativeToolTip": "BlogApp.Application\\DependencyResolvers\\DtoMapperResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:41:25.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ICategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\ICategoryManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\ManagerInterfaces\\ICategoryManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\ManagerInterfaces\\ICategoryManager.cs",
+              "RelativeToolTip": "BlogApp.Application\\ManagerInterfaces\\ICategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:29:14.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TagManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\TagManager.cs",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\ManagerConcretes\\TagManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\ManagerConcretes\\TagManager.cs",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\ManagerConcretes\\TagManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:33:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "VmMapperResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\DependencyResolvers\\VmMapperResolver.cs",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\DependencyResolvers\\VmMapperResolver.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\DependencyResolvers\\VmMapperResolver.cs",
+              "RelativeToolTip": "BlogApp.WebApi\\DependencyResolvers\\VmMapperResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:12:17.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "VmMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "RelativeToolTip": "BlogApp.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:09:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BlogApp.InnerInfrastructure",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj",
+              "RelativeDocumentMoniker": "BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj",
+              "RelativeToolTip": "BlogApp.InnerInfrastructure\\BlogApp.InnerInfrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T08:19:36.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Contract\\RepositoryInterfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Contract\\RepositoryInterfaces\\IRepository.cs",
+              "RelativeToolTip": "BlogApp.Contract\\RepositoryInterfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:42:02.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\BaseConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\Configurations\\BaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\Configurations\\BaseConfiguration.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\Configurations\\BaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:49:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.WebApi\\appsettings.json",
+              "RelativeToolTip": "BlogApp.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T08:08:40.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CreateTagRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\Tags\\CreateTagRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:57:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UpdateTagRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Tags\\UpdateTagRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\Tags\\UpdateTagRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Tags\\UpdateTagRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\Tags\\UpdateTagRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:58:28.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UpdateCategoryRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Categories\\UpdateCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.ViewModels\\RequestModels\\Categories\\UpdateCategoryRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.ViewModels\\RequestModels\\Categories\\UpdateCategoryRequestModel.cs",
+              "RelativeToolTip": "BlogApp.ViewModels\\RequestModels\\Categories\\UpdateCategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:58:01.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\RepositoryConcretes\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeToolTip": "BlogApp.Persistence\\RepositoryConcretes\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:52:47.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "BlogApp.Persistence",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\BlogApp.Persistence.csproj",
+              "RelativeDocumentMoniker": "BlogApp.Persistence\\BlogApp.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Persistence\\BlogApp.Persistence.csproj",
+              "RelativeToolTip": "BlogApp.Persistence\\BlogApp.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T07:46:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TagDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\TagDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DtoClasses\\TagDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\TagDto.cs",
+              "RelativeToolTip": "BlogApp.Application\\DtoClasses\\TagDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:26:12.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "BlogApp.Application",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\BlogApp.Application.csproj",
+              "RelativeDocumentMoniker": "BlogApp.Application\\BlogApp.Application.csproj",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\BlogApp.Application.csproj",
+              "RelativeToolTip": "BlogApp.Application\\BlogApp.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T07:12:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoInterfaces\\IDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DtoInterfaces\\IDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoInterfaces\\IDto.cs",
+              "RelativeToolTip": "BlogApp.Application\\DtoInterfaces\\IDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:24:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\BaseDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\DtoClasses\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Application\\DtoClasses\\BaseDto.cs",
+              "RelativeToolTip": "BlogApp.Application\\DtoClasses\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:26:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DataStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Enums\\DataStatus.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Enums\\DataStatus.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Enums\\DataStatus.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Enums\\DataStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:18:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\BlogApp\\BlogApp.Domain\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Interfaces\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:17:33.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
