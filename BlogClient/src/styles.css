@@ -1,0 +1,493 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg-page: #f8fafc;
+  --card-bg: #ffffff;
+  --primary: #6366f1;
+  --primary-hover: #4f46e5;
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --border: #e2e8f0;
+  --danger: #ef4444;
+  --danger-hover: #dc2626;
+  --success: #10b981;
+  --edit-bg: #f0f9ff;
+  --edit-color: #0284c7;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg-page);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--text-main);
+  padding: 32px;
+  line-height: 1.6;
+}
+
+/* === TABLO KARTLARI === */
+.card {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  margin-bottom: 32px;
+  transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background: linear-gradient(to right, #f8fafc, #f1f5f9);
+}
+
+th {
+  padding: 16px 20px;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  border-bottom: 2px solid var(--border);
+}
+
+tbody tr {
+  transition: background-color 0.2s ease;
+}
+
+tbody tr:hover {
+  background-color: #f8fafc;
+}
+
+td {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+  color: var(--text-main);
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.price {
+  font-weight: 600;
+  color: var(--success);
+  font-size: 15px;
+}
+
+.badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #e0e7ff 0%, #ddd6fe 100%);
+  color: #5b21b6;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* === FORM TASARIMI === */
+.admin-form {
+  background: var(--card-bg);
+  padding: 32px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-md);
+}
+
+h3 {
+  margin: 0 0 28px 0;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-main);
+  position: relative;
+  padding-bottom: 12px;
+}
+
+h3::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 60px;
+  height: 3px;
+  background: var(--primary);
+  border-radius: 2px;
+}
+
+/* YAN YANA DİZİLİM - BUTON DA YANINDA */
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+/* === INPUT ALANLARI === */
+.field-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  min-width: 200px;
+  max-width: 300px; /* İnputları daraltır */
+}
+
+label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-main);
+  letter-spacing: 0.2px;
+}
+
+input, select {
+  height: 44px;
+  padding: 0 14px;
+  border-radius: 8px;
+  border: 1.5px solid var(--border);
+  background: #ffffff;
+  color: var(--text-main);
+  font-family: inherit;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+input::placeholder {
+  color: #94a3b8;
+}
+
+input:hover, select:hover {
+  border-color: #cbd5e1;
+}
+
+input:focus, select:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+  background: #fefeff;
+}
+
+select {
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg width='12' height='8' viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1.5L6 6.5L11 1.5' stroke='%2364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  padding-right: 40px;
+}
+
+/* HATA MESAJI - INPUT ALTINDA */
+.error-msg {
+  color: var(--danger);
+  font-size: 11.5px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: -4px;
+  animation: slideDown 0.2s ease-out;
+}
+
+.error-msg::before {
+  content: '⚠';
+  font-size: 12px;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === BUTONLAR === */
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  font-family: inherit;
+  letter-spacing: 0.2px;
+}
+
+/* BUTON GRUBU - KAYDET VE İPTAL YAN YANA */
+.button-group {
+  display: flex;
+  gap: 12px;
+  margin-top: 29px; /* Label yüksekliği + gap */
+  flex-wrap: wrap;
+  min-width: 280px; /* Buton grubunu genişletir */
+}
+
+/* EKLE/KAYDET BUTONU */
+.btn-add {
+  height: 44px;
+  padding: 0 36px; /* Padding artırıldı */
+  background: #15e915;
+  color: white;
+  border: 2px solid var(--border);
+  box-shadow: 0 2px 6px rgba(53, 238, 24, 0.05);
+  min-width: 120px; /* Minimum genişlik artırıldı */
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* EKLE BUTONU TEK BAŞINA OLDUĞUNDA */
+.form-row > .btn-add {
+  margin-top: 29px;
+}
+
+/* BUTON GRUBU İÇİNDEKİ BUTONLAR */
+.button-group .btn-add {
+  margin-top: 0;
+}
+
+.btn-add:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(99, 102, 241, 0.5);
+  background: linear-gradient(135deg, var(--primary-hover) 0%, #3730a3 100%);
+}
+
+.btn-add:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.btn-add:disabled {
+  background: linear-gradient(135deg, #cbd5e1 0%, #94a3b8 100%);
+  cursor: not-allowed;
+  box-shadow: none;
+  opacity: 0.6;
+}
+
+/* İPTAL BUTONU */
+.btn-cancel {
+  height: 44px;
+  padding: 0 36px; /* Padding artırıldı */
+  background: #ffffff;
+  color: var(--text-muted);
+  border: 2px solid var(--border);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  min-width: 120px; /* Minimum genişlik artırıldı */
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.btn-cancel:hover {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  color: var(--text-main);
+}
+
+.btn-cancel:active {
+  transform: translateY(0);
+}
+
+.btn-edit {
+  background: var(--edit-bg);
+  color: var(--edit-color);
+  padding: 8px 18px;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.btn-edit:hover {
+  background: #bae6fd;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(2, 132, 199, 0.2);
+}
+
+.btn-delete {
+  background: #fef2f2;
+  color: var(--danger);
+  padding: 8px 18px;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.btn-delete:hover {
+  background: #fecaca;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(239, 68, 68, 0.2);
+}
+
+/* Güncelleme formu için özel stil */
+.update-mode {
+  background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
+  border: 2px solid #f8fafc;
+}
+
+.update-mode h3 {
+  color: #92400e;
+}
+
+.update-mode h3::after {
+  background: #f59e0b;
+}
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--border), transparent);
+  margin: 40px 0;
+}
+
+.publish-control {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #f1f5f9;
+    padding: 8px 16px;
+    border-radius: 50px;
+    width: fit-content;
+    margin: 15px 0;
+    border: 1px solid var(--border);
+  }
+  
+  .switch-container {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 22px;
+  }
+  
+  .switch-container input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: #cbd5e1;
+    transition: .4s;
+    border-radius: 34px;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 16px; width: 16px;
+    left: 3px; bottom: 3px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+  }
+  
+  input:checked + .slider {
+    background-color: var(--success);
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(22px);
+  }
+  
+  .publish-label {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text-main);
+    text-transform: uppercase;
+  }
+
+/* === RESPONSİVE TASARIM === */
+@media (max-width: 968px) {
+  .form-row {
+    flex-direction: column;
+  }
+
+  .btn-add {
+    width: 100%;
+    margin-top: 8px;
+  }
+
+  .button-group {
+    width: 100%;
+    margin-top: 8px;
+  }
+
+  .button-group .btn-add,
+  .button-group .btn-cancel {
+    flex: 1;
+  }
+
+  .field-wrapper {
+    min-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+
+  .card {
+    overflow-x: auto;
+  }
+
+  table {
+    min-width: 600px;
+  }
+
+  th, td {
+    padding: 12px 14px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .admin-form {
+    padding: 20px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  .actions {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .btn-edit, .btn-delete {
+    width: 100%;
+  }
+}

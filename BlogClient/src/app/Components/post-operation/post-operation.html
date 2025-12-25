@@ -1,0 +1,242 @@
+<!-- <div class="card">
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Başlık</th>
+          <th>Durum</th>
+          <th>İşlemler</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for(post of posts(); track post.id){
+        <tr>
+          <td>{{ post.id }}</td>
+          <td>{{ post.title }}</td>
+          <td>{{ post.isPublished ? 'Yayında' : 'Taslak' }}</td>
+          <td class="actions">
+            <button class="btn-edit" (click)="startUpdate(post)">Güncelle</button>
+            <button class="btn-delete" (click)="onDelete(post.id)">Sil</button>
+          </td>
+        </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+  
+  <hr />
+  
+  <form [formGroup]="createForm" (ngSubmit)="onCreate()" class="admin-form">
+    <h3>Yeni Yazı Ekle</h3>
+    
+    <div class="form-row">
+      <div class="field-wrapper">
+        <label>Başlık</label>
+        <input type="text" formControlName="title" placeholder="Yazı başlığı..." />
+        @if(getErrorMessageByName(createForm, 'title'); as msg){ <span class="error-msg">{{msg}}</span> }
+      </div>
+  
+      <div class="field-wrapper">
+        <label>Kategori</label>
+        <select formControlName="categoryId">
+          <option value="0">Kategori Seçin</option>
+          @for(cat of categories(); track cat.id){
+            <option [value]="cat.id">{{ cat.categoryName }}</option>
+          }
+        </select>
+        @if(getErrorMessageByName(createForm, 'categoryId'); as msg){ <span class="error-msg">{{msg}}</span> }
+      </div>
+  
+      <div class="field-wrapper">
+        <label>Etiket</label>
+        <select formControlName="tagId">
+          <option value="0">Etiket Seçin</option>
+          @for(tag of tags(); track tag.id){
+            <option [value]="tag.id">{{ tag.tagName }}</option>
+          }
+        </select>
+        @if(getErrorMessageByName(createForm, 'tagId'); as msg){ <span class="error-msg">{{msg}}</span> }
+      </div>
+    </div>
+  
+    <div class="field-wrapper">
+      <label>İçerik</label>
+      <textarea formControlName="content" rows="4"></textarea>
+      @if(getErrorMessageByName(createForm, 'content'); as msg){ <span class="error-msg">{{msg}}</span> }
+    </div>
+  
+    <div class="publish-control">
+        <label class="switch-container">
+          <input type="checkbox" formControlName="isPublished" id="pub-create">
+          <span class="slider"></span>
+        </label>
+        <span class="publish-label">{{ createForm.get('isPublished')?.value ? 'Yayında' : 'Taslak' }}</span>
+      </div>
+  
+    <button type="submit" [disabled]="createForm.invalid" class="btn-add">Yazıyı Ekle</button>
+  </form>
+  
+  @if(selectedPost() !== null){
+    <hr />
+    <form [formGroup]="updateForm" (ngSubmit)="onUpdate()" class="admin-form update-mode">
+      <h3>Yazıyı Güncelle (ID: {{selectedPost()?.id}})</h3>
+      <input type="hidden" formControlName="id" />
+  
+      <div class="form-row">
+          <div class="field-wrapper">
+              <label>Başlık</label>
+              <input type="text" formControlName="title" />
+          </div>
+          <div class="field-wrapper">
+              <label>Kategori</label>
+              <select formControlName="categoryId">
+                @for(cat of categories(); track cat.id){
+                  <option [value]="cat.id">{{ cat.categoryName }}</option>
+                }
+              </select>
+          </div>
+      </div>
+  
+      <div class="field-wrapper">
+        <label>İçerik</label>
+        <textarea formControlName="content" rows="4"></textarea>
+      </div>
+  
+      <div class="button-group">
+        <button type="submit" [disabled]="updateForm.invalid" class="btn-add">DEĞİŞİKLİKLERİ KAYDET</button>
+        <button type="button" (click)="cancelUpdate()" class="btn-cancel">İptal</button>
+      </div>
+    </form>
+  } -->
+  <div class="card">
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Başlık</th>
+          <th>Durum</th>
+          <th>Oluşturulma</th> <th>Son Güncelleme</th> <th>İşlemler</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for(post of posts(); track post.id){
+        <tr>
+          <td>{{ post.id }}</td>
+          <td>{{ post.title }}</td>
+          <td>
+             <span class="badge" [style.background]="post.isPublished ? '#d1fae5' : '#fef3c7'" [style.color]="post.isPublished ? '#065f46' : '#92400e'">
+              {{ post.isPublished ? 'Yayında' : 'Taslak' }}
+             </span>
+          </td>
+          <td>{{ post.createdAt | date:'dd.MM.yyyy HH:mm' }}</td>
+          <td>{{ post.updatedAt ? (post.updatedAt | date:'dd.MM.yyyy HH:mm') : '-' }}</td>
+          <td class="actions">
+            <button class="btn-edit" (click)="startUpdate(post)">Güncelle</button>
+            <button class="btn-delete" (click)="onDelete(post.id)">Sil</button>
+          </td>
+        </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+  
+  <hr />
+  
+  <form [formGroup]="createForm" (ngSubmit)="onCreate()" class="admin-form">
+    <h3>Yeni Yazı Ekle</h3>
+    
+    <div class="form-row">
+      <div class="field-wrapper">
+        <label>Başlık</label>
+        <input type="text" formControlName="title" placeholder="Yazı başlığı..." />
+        @if(getErrorMessageByName(createForm, 'title'); as msg){ <span class="error-msg">{{msg}}</span> }
+      </div>
+  
+      <div class="field-wrapper">
+        <label>Kategori</label>
+        <select formControlName="categoryId">
+          <option value="0">Kategori Seçin</option>
+          @for(cat of categories(); track cat.id){
+            <option [value]="cat.id">{{ cat.categoryName }}</option>
+          }
+        </select>
+      </div>
+  
+      <div class="field-wrapper">
+        <label>Etiket</label>
+        <select formControlName="tagId">
+          <option value="0">Etiket Seçin</option>
+          @for(tag of tags(); track tag.id){
+            <option [value]="tag.id">{{ tag.tagName }}</option>
+          }
+        </select>
+      </div>
+    </div>
+  
+    <div class="field-wrapper">
+      <label>İçerik</label>
+      <textarea formControlName="content" rows="4"></textarea>
+      @if(getErrorMessageByName(createForm, 'content'); as msg){ <span class="error-msg">{{msg}}</span> }
+    </div>
+  
+    <div class="publish-control">
+        <label class="switch-container">
+          <input type="checkbox" formControlName="isPublished">
+          <span class="slider"></span>
+        </label>
+        <span class="publish-label">{{ createForm.get('isPublished')?.value ? 'YAYINLA' : 'TASLAK OLARAK KAYDET' }}</span>
+    </div>
+  
+    <button type="submit" [disabled]="createForm.invalid" class="btn-add">Yazıyı Ekle</button>
+  </form>
+  
+  @if(selectedPost() !== null){
+    <hr />
+    <form [formGroup]="updateForm" (ngSubmit)="onUpdate()" class="admin-form update-mode">
+      <h3>Yazıyı Güncelle (ID: {{selectedPost()?.id}})</h3>
+      <input type="hidden" formControlName="id" />
+  
+      <div class="form-row">
+        <div class="field-wrapper">
+            <label>Başlık</label>
+            <input type="text" formControlName="title" />
+            @if(getErrorMessageByName(updateForm, 'title'); as msg){ <span class="error-msg">{{msg}}</span> }
+        </div>
+        <div class="field-wrapper">
+            <label>Kategori</label>
+            <select formControlName="categoryId">
+                @for(cat of categories(); track cat.id){
+                    <option [value]="cat.id">{{ cat.categoryName }}</option>
+                }
+            </select>
+        </div>
+        <div class="field-wrapper">
+            <label>Etiket</label>
+            <select formControlName="tagId">
+                @for(tag of tags(); track tag.id){
+                    <option [value]="tag.id">{{ tag.tagName }}</option>
+                }
+            </select>
+        </div>
+    </div>
+  
+      <div class="field-wrapper">
+        <label>İçerik</label>
+        <textarea formControlName="content" rows="4"></textarea>
+        @if(getErrorMessageByName(updateForm, 'content'); as msg){ <span class="error-msg">{{msg}}</span> }
+      </div>
+  
+      <div class="publish-control">
+          <label class="switch-container">
+            <input type="checkbox" formControlName="isPublished">
+            <span class="slider"></span>
+          </label>
+          <span class="publish-label">{{ updateForm.get('isPublished')?.value ? 'YAYINDA' : 'TASLAĞA ÇEK' }}</span>
+      </div>
+  
+      <div class="button-group">
+        <button type="submit" [disabled]="updateForm.invalid" class="btn-add">DEĞİŞİKLİKLERİ KAYDET</button>
+        <button type="button" (click)="cancelUpdate()" class="btn-cancel">İptal</button>
+      </div>
+    </form>
+  }
