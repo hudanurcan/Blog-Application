@@ -18,7 +18,7 @@ Her yazının en az bir kategori ve bir etiket ile ilişkilendirilmesi kuralı, 
 
 Kategori ve etiket adlarının veritabanında benzersiz olması kuralı uygulanmıştır
 
-Başlık alanı boş geçilemez ve dökümanda istenen uzunluk sınırlarına (en az 5 karakter) uygunluğu hem Angular PostValidators hem de backend PostValidator ile çift taraflı kontrol edilir.
+Başlık alanı boş geçilemez uygunluğu Angular tarafında kontrol edilir.
 
 
 -- Çalıştırma adımlar 
