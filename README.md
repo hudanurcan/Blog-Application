@@ -23,4 +23,13 @@ Başlık alanı boş geçilemez ve dökümanda istenen uzunluk sınırlarına (e
 
 -- Çalıştırma adımlar 
 - npm install
-- ng serve 
+- ng serve
+  
+<img width="1920" height="1080" alt="Ekran Görüntüsü (3734)" src="https://github.com/user-attachments/assets/dd4fa1e0-9680-4e87-aa22-ea35a4edaabf" />
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (3735)" src="https://github.com/user-attachments/assets/95e5dc08-4e13-49e1-9a3d-fc0b0ee84ce3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eba7e037-700e-4395-984a-5896c75e0cd3" />
+
+
+
